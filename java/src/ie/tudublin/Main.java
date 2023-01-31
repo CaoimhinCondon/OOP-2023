@@ -23,5 +23,7 @@ public class Main
 
 			ginger.kill();
 		}
+
+		helloProcessing();
 	}	
 }
